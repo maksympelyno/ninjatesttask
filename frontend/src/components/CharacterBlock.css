@@ -1,0 +1,7 @@
+.character-card img {
+  transition: transform 0.5s ease; /* Анімація */
+}
+
+.character-card:hover img {
+  transform: scale(1.05); /* Збільшення на 2% */
+}
